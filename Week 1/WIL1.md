@@ -15,12 +15,12 @@ git init
 
 ## 파일 수정 후 로컬 저장소로 옮기기
 git에 커밋하기 : git commit -m “<commit message>”
-*새로운 기능을 추가한 경우: feat
-*기존 코드를 개선한 경우 : refactor
-*버그를 수정한 경우 : fix
-*코드 외의 설정을 바꾼 경우 : chore
-*문서화 : docs
-*테스트 코드 : test
+* 새로운 기능을 추가한 경우: feat
+* 기존 코드를 개선한 경우 : refactor
+* 버그를 수정한 경우 : fix
+* 코드 외의 설정을 바꾼 경우 : chore
+* 문서화 : docs
+* 테스트 코드 : test
 
 ## github에 올리기
 github에 push 하기 : git push origin main
