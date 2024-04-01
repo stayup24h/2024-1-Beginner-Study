@@ -12,6 +12,7 @@ Repository에서 작업 계획, 토론 및 추적을 위해 활용
 - 현재 브랜치 확인 : git branch <br/>
 - 브랜치 생성 : git branch "<이름>" <br/>
 - 브랜치 이동 : git checkout "<이름>" <br/>
+- 브랜치 push : git push origin <이름>
 
 ## Pull Request
 분기된 Branch를 병합하는 절차
